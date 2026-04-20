@@ -1,0 +1,238 @@
+{
+    "database_last_update": "21-04-2026 05:16 AM",
+    "total_channels": 29,
+    "channels": [
+        {
+            "NAME": "GREEN TV",
+            "LOGO_URL": "https://cdn.jsdelivr.net/gh/splshameem420/IPTV@main/LOGOS/GREEN%20TV.png",
+            "COUNTRY": "BANGLADESH",
+            "MAIN_CATEGORY": "ENTERTAINMENT",
+            "SUB_CATEGORY": "GENERAL",
+            "last_update": "21-04-2026 05:00 AM (Bangladesh Time)"
+        },
+        {
+            "NAME": "CHANNEL I",
+            "LOGO_URL": "https://cdn.jsdelivr.net/gh/splshameem420/IPTV@main/LOGOS/CHANNEL%20I.png",
+            "COUNTRY": "BANGLADESH",
+            "MAIN_CATEGORY": "ENTERTAINMENT",
+            "SUB_CATEGORY": "GENERAL",
+            "last_update": "21-04-2026 05:00 AM (Bangladesh Time)"
+        },
+        {
+            "NAME": "RTV",
+            "LOGO_URL": "https://cdn.jsdelivr.net/gh/splshameem420/IPTV@main/LOGOS/RTV.png",
+            "COUNTRY": "BANGLADESH",
+            "MAIN_CATEGORY": "ENTERTAINMENT",
+            "SUB_CATEGORY": "GENERAL",
+            "last_update": "21-04-2026 05:00 AM (Bangladesh Time)"
+        },
+        {
+            "NAME": "SOMOY TV",
+            "LOGO_URL": "https://cdn.jsdelivr.net/gh/splshameem420/IPTV@main/LOGOS/SOMOY%20TV.png",
+            "COUNTRY": "BANGLADESH",
+            "MAIN_CATEGORY": "NEWS",
+            "SUB_CATEGORY": "GENERAL",
+            "last_update": "21-04-2026 05:15 AM (Bangladesh Time)"
+        },
+        {
+            "NAME": "ANANDA TV",
+            "LOGO_URL": "https://cdn.jsdelivr.net/gh/splshameem420/IPTV@main/LOGOS/ANANDA%20TV.png",
+            "COUNTRY": "BANGLADESH",
+            "MAIN_CATEGORY": "ENTERTAINMENT",
+            "SUB_CATEGORY": "GENERAL",
+            "last_update": "21-04-2026 05:00 AM (Bangladesh Time)"
+        },
+        {
+            "NAME": "CHANNEL 16",
+            "LOGO_URL": "https://cdn.jsdelivr.net/gh/splshameem420/IPTV@main/LOGOS/CHANNEL%2016.png",
+            "COUNTRY": "BANGLADESH",
+            "MAIN_CATEGORY": "ENTERTAINMENT",
+            "SUB_CATEGORY": "GENERAL",
+            "last_update": "21-04-2026 05:00 AM (Bangladesh Time)"
+        },
+        {
+            "NAME": "DBC NEWS",
+            "LOGO_URL": "https://cdn.jsdelivr.net/gh/splshameem420/IPTV@main/LOGOS/DBC%20NEWS.png",
+            "COUNTRY": "BANGLADESH",
+            "MAIN_CATEGORY": "NEWS",
+            "SUB_CATEGORY": "GENERAL",
+            "last_update": "21-04-2026 05:00 AM (Bangladesh Time)"
+        },
+        {
+            "NAME": "NTV",
+            "LOGO_URL": "https://cdn.jsdelivr.net/gh/splshameem420/IPTV@main/LOGOS/NTV.png",
+            "COUNTRY": "BANGLADESH",
+            "MAIN_CATEGORY": "ENTERTAINMENT",
+            "SUB_CATEGORY": "GENERAL",
+            "last_update": "21-04-2026 05:00 AM (Bangladesh Time)"
+        },
+        {
+            "NAME": "MY TV",
+            "LOGO_URL": "https://cdn.jsdelivr.net/gh/splshameem420/IPTV@main/LOGOS/MY%20TV.png",
+            "COUNTRY": "BANGLADESH",
+            "MAIN_CATEGORY": "ENTERTAINMENT",
+            "SUB_CATEGORY": "GENERAL",
+            "last_update": "21-04-2026 05:00 AM (Bangladesh Time)"
+        },
+        {
+            "NAME": "GAZI TV",
+            "LOGO_URL": "https://cdn.jsdelivr.net/gh/splshameem420/IPTV@main/LOGOS/GAZI%20TV.png",
+            "COUNTRY": "BANGLADESH",
+            "MAIN_CATEGORY": "ENTERTAINMENT",
+            "SUB_CATEGORY": "GENERAL",
+            "last_update": "21-04-2026 05:00 AM (Bangladesh Time)"
+        },
+        {
+            "NAME": "DEEPTO TV",
+            "LOGO_URL": "https://cdn.jsdelivr.net/gh/splshameem420/IPTV@main/LOGOS/DEEPTO%20TV.png",
+            "COUNTRY": "BANGLADESH",
+            "MAIN_CATEGORY": "ENTERTAINMENT",
+            "SUB_CATEGORY": "GENERAL",
+            "last_update": "21-04-2026 05:00 AM (Bangladesh Time)"
+        },
+        {
+            "NAME": "EKATTOR TV",
+            "LOGO_URL": "https://cdn.jsdelivr.net/gh/splshameem420/IPTV@main/LOGOS/EKATTOR%20TV.png",
+            "COUNTRY": "BANGLADESH",
+            "MAIN_CATEGORY": "NEWS",
+            "SUB_CATEGORY": "GENERAL",
+            "last_update": "21-04-2026 05:00 AM (Bangladesh Time)"
+        },
+        {
+            "NAME": "DESH TV",
+            "LOGO_URL": "https://cdn.jsdelivr.net/gh/splshameem420/IPTV@main/LOGOS/DESH%20TV.png",
+            "COUNTRY": "BANGLADESH",
+            "MAIN_CATEGORY": "NEWS",
+            "SUB_CATEGORY": "GENERAL",
+            "last_update": "21-04-2026 05:00 AM (Bangladesh Time)"
+        },
+        {
+            "NAME": "BIJOY TV",
+            "LOGO_URL": "https://cdn.jsdelivr.net/gh/splshameem420/IPTV@main/LOGOS/BIJOY%20TV.png",
+            "COUNTRY": "BANGLADESH",
+            "MAIN_CATEGORY": "ENTERTAINMENT",
+            "SUB_CATEGORY": "GENERAL",
+            "last_update": "21-04-2026 05:00 AM (Bangladesh Time)"
+        },
+        {
+            "NAME": "ETV",
+            "LOGO_URL": "https://cdn.jsdelivr.net/gh/splshameem420/IPTV@main/LOGOS/ETV.png",
+            "COUNTRY": "BANGLADESH",
+            "MAIN_CATEGORY": "ENTERTAINMENT",
+            "SUB_CATEGORY": "GENERAL",
+            "last_update": "21-04-2026 05:00 AM (Bangladesh Time)"
+        },
+        {
+            "NAME": "EKHON TV",
+            "LOGO_URL": "https://cdn.jsdelivr.net/gh/splshameem420/IPTV@main/LOGOS/EKHON%20TV.png",
+            "COUNTRY": "BANGLADESH",
+            "MAIN_CATEGORY": "ENTERTAINMENT",
+            "SUB_CATEGORY": "GENERAL",
+            "last_update": "21-04-2026 05:00 AM (Bangladesh Time)"
+        },
+        {
+            "NAME": "JAMUNA TV",
+            "LOGO_URL": "https://cdn.jsdelivr.net/gh/splshameem420/IPTV@main/LOGOS/JAMUNA%20TV.png",
+            "COUNTRY": "BANGLADESH",
+            "MAIN_CATEGORY": "NEWS",
+            "SUB_CATEGORY": "GENERAL",
+            "last_update": "21-04-2026 05:00 AM (Bangladesh Time)"
+        },
+        {
+            "NAME": "NAGORIK TV",
+            "LOGO_URL": "https://cdn.jsdelivr.net/gh/splshameem420/IPTV@main/LOGOS/NAGORIK%20TV.png",
+            "COUNTRY": "BANGLADESH",
+            "MAIN_CATEGORY": "ENTERTAINMENT",
+            "SUB_CATEGORY": "GENERAL",
+            "last_update": "21-04-2026 05:00 AM (Bangladesh Time)"
+        },
+        {
+            "NAME": "ATN NEWS",
+            "LOGO_URL": "https://cdn.jsdelivr.net/gh/splshameem420/IPTV@main/LOGOS/ATN%20NEWS.png",
+            "COUNTRY": "BANGLADESH",
+            "MAIN_CATEGORY": "NEWS",
+            "SUB_CATEGORY": "GENERAL",
+            "last_update": "21-04-2026 05:00 AM (Bangladesh Time)"
+        },
+        {
+            "NAME": "BTV NATIONAL",
+            "LOGO_URL": "https://cdn.jsdelivr.net/gh/splshameem420/IPTV@main/LOGOS/BTV%20NATIONAL.png",
+            "COUNTRY": "BANGLADESH",
+            "MAIN_CATEGORY": "ENTERTAINMENT",
+            "SUB_CATEGORY": "GENERAL",
+            "last_update": "21-04-2026 05:00 AM (Bangladesh Time)"
+        },
+        {
+            "NAME": "T SPORTS",
+            "LOGO_URL": "https://cdn.jsdelivr.net/gh/splshameem420/IPTV@main/LOGOS/T%20SPORTS.png",
+            "COUNTRY": "BANGLADESH",
+            "MAIN_CATEGORY": "SPORTS",
+            "SUB_CATEGORY": "GENERAL",
+            "last_update": "21-04-2026 05:00 AM (Bangladesh Time)"
+        },
+        {
+            "NAME": "EKUSHEY TV",
+            "LOGO_URL": "https://cdn.jsdelivr.net/gh/splshameem420/IPTV@main/LOGOS/EKUSHEY%20TV.png",
+            "COUNTRY": "BANGLADESH",
+            "MAIN_CATEGORY": "ENTERTAINMENT",
+            "SUB_CATEGORY": "GENERAL",
+            "last_update": "21-04-2026 05:00 AM (Bangladesh Time)"
+        },
+        {
+            "NAME": "CHANNEL9",
+            "LOGO_URL": "https://cdn.jsdelivr.net/gh/splshameem420/IPTV@main/LOGOS/CHANNEL9.png",
+            "COUNTRY": "BANGLADESH",
+            "MAIN_CATEGORY": "ENTERTAINMENT",
+            "SUB_CATEGORY": "GENERAL",
+            "last_update": "21-04-2026 05:00 AM (Bangladesh Time)"
+        },
+        {
+            "NAME": "FALGUNI TV",
+            "LOGO_URL": "https://cdn.jsdelivr.net/gh/splshameem420/IPTV@main/LOGOS/FALGUNI%20TV.png",
+            "COUNTRY": "BANGLADESH",
+            "MAIN_CATEGORY": "ENTERTAINMENT",
+            "SUB_CATEGORY": "GENERAL",
+            "last_update": "21-04-2026 05:00 AM (Bangladesh Time)"
+        },
+        {
+            "NAME": "CHANNEL24",
+            "LOGO_URL": "https://cdn.jsdelivr.net/gh/splshameem420/IPTV@main/LOGOS/CHANNEL24.png",
+            "COUNTRY": "BANGLADESH",
+            "MAIN_CATEGORY": "NEWS",
+            "SUB_CATEGORY": "GENERAL",
+            "last_update": "21-04-2026 05:00 AM (Bangladesh Time)"
+        },
+        {
+            "NAME": "GLOBAL TV",
+            "LOGO_URL": "https://cdn.jsdelivr.net/gh/splshameem420/IPTV@main/LOGOS/GLOBAL%20TV.png",
+            "COUNTRY": "BANGLADESH",
+            "MAIN_CATEGORY": "ENTERTAINMENT",
+            "SUB_CATEGORY": "GENERAL",
+            "last_update": "21-04-2026 05:00 AM (Bangladesh Time)"
+        },
+        {
+            "NAME": "BOISHAKHI",
+            "LOGO_URL": "https://cdn.jsdelivr.net/gh/splshameem420/IPTV@main/LOGOS/BOISHAKHI.png",
+            "COUNTRY": "BANGLADESH",
+            "MAIN_CATEGORY": "ENTERTAINMENT",
+            "SUB_CATEGORY": "GENERAL",
+            "last_update": "21-04-2026 05:00 AM (Bangladesh Time)"
+        },
+        {
+            "NAME": "BTV",
+            "LOGO_URL": "https://cdn.jsdelivr.net/gh/splshameem420/IPTV@main/LOGOS/BTV.png",
+            "COUNTRY": "BANGLADESH",
+            "MAIN_CATEGORY": "ENTERTAINMENT",
+            "SUB_CATEGORY": "GENERAL",
+            "last_update": "21-04-2026 05:00 AM (Bangladesh Time)"
+        },
+        {
+            "NAME": "SOMOY NEWS",
+            "LOGO_URL": "https://cdn.jsdelivr.net/gh/splshameem420/IPTV@main/LOGOS/SOMOY%20NEWS.png",
+            "COUNTRY": "BANGLADESH",
+            "MAIN_CATEGORY": "NEWS",
+            "SUB_CATEGORY": "GENERAL",
+            "last_update": "21-04-2026 05:00 AM (Bangladesh Time)"
+        }
+    ]
+}
