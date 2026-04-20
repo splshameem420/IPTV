@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="413px"
+   height="182px"
+   viewBox="0 0 413 182"
+   version="1.1"
+   id="SVGRoot"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="PTV logo (Phú Thọ).svg">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="158.54053"
+     inkscape:cy="191.17457"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <defs
+     id="defs4496" />
+  <metadata
+     id="metadata4499">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <path
+       style="fill:#fffffc;stroke:none;stroke-width:1.01184177px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="M 9.2917257,5.9338433 V 174.85216 H 79.693854 v -61.85265 h 28.522556 c 7.86801,0 30.45026,-1.80059 48.01805,-11.71421 v 73.56686 h 76.1793 V 74.94121 L 295.59541,173.4042 404.98851,5.9338433 H 325.19996 L 297.24998,50.116281 268.15681,5.9338433 H 128.79586 120.85274 Z M 79.693854,50.786852 h 16.968215 c 0,0 10.109631,0.721717 10.831711,7.955844 0,0 -1.08339,9.044074 -10.470383,9.40578 -9.386983,0.361706 -17.329543,0 -17.329543,0 z"
+       id="path5074"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#ea0003;stroke:none;stroke-width:1.01184177px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="m 117.30272,13.062851 c -0.89215,-0.0023 -1.78448,0.0174 -2.67534,0.05736 H 19.148063 V 167.34731 h 53.356902 v -60.36117 h 43.909275 c 30.72019,-2.47239 56.84531,-20.546824 56.16453,-44.247718 0.2061,-29.402325 -27.61904,-49.604353 -55.27605,-49.675571 z M 72.504965,44.456989 h 15.854641 c 0,0 29.784514,-0.180851 30.145544,15.19167 0.36105,15.37252 -23.647701,15.551679 -23.647701,15.551679 H 72.504965 Z"
+       id="path5095"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#0fff04;stroke:none;stroke-width:1.01184177px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="M 164.66475,95.220604 C 178.96112,81.920822 179.727,64.017268 179.727,64.017268 180.49288,32.558166 149.09191,13.120023 149.09191,13.120023 h 115.13688 l 24.25278,39.643583 H 225.16905 V 167.34636 h -60.5043 z"
+       id="path5097"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:#0300f4;stroke:none;stroke-width:1.01184177px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="m 233.13528,56.211598 h 57.40504 l 5.23505,9.766074 32.13238,-52.857649 h 60.8349 L 295.91209,157.27219 233.17993,59.394107 Z"
+       id="path5107"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccc" />
+  </g>
+</svg>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xml:space="preserve"
+   width="1883.198"
+   height="1080"
+   version="1.1"
+   style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+   viewBox="0 0 49826.278 28575.002"
+   id="svg16"
+   sodipodi:docname="RCN Televisión.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"><metadata
+   id="metadata20"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1920"
+   inkscape:window-height="1017"
+   id="namedview18"
+   showgrid="false"
+   units="px"
+   inkscape:zoom="0.41550737"
+   inkscape:cx="595.1943"
+   inkscape:cy="432.42496"
+   inkscape:window-x="-8"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Foreground" />
+ <defs
+   id="defs4">
+  <style
+   type="text/css"
+   id="style2">
+   <![CDATA[
+    .fil0 {fill:#373435}
+    .fil1 {fill:#4570B5;fill-rule:nonzero}
+    .fil2 {fill:#82C34C;fill-rule:nonzero}
+   ]]>
+  </style>
+ </defs>
+ <g
+   id="Foreground">
+  <metadata
+   id="CorelCorpID_0Corel-Layer" />
+  
+  <path
+   class="fil1"
+   d="m 34889.772,25968.381 c -3120.278,-1816.165 -3935.767,-3319.967 -4003.818,-3453.837 749.67,-327.98 1450.255,-717.318 2091.713,-1157.972 119.367,246.543 758.595,1329.772 3321.083,2713.091 3645.716,1967.884 5838.947,1820.627 6787.19,1820.627 l 4402.08,1.116 V 2683.9898 H 41309.936 V 9975.4222 C 38755.257,4485.6519 32977.667,210.74843 24981.188,185.09009 30631.602,-537.8059 35424.135,899.06144 38972.796,3757.178 V 344.61806 h 10853.48 V 28229.662 h -7685.233 c -1232.716,-103.749 -3409.213,-23.427 -7251.271,-2261.281 z"
+   id="path9"
+   style="stroke-width:1.11558" />
+  <path
+   class="fil2"
+   d="M 33322.382,11199.214 C 31829.735,8808.5253 28662.603,7156.3509 24994.575,7156.3509 c -5089.277,0 -9214.693,3180.5191 -9214.693,7102.9001 0,3922.38 4125.416,7101.783 9214.693,7101.783 3726.038,0 6935.563,-1704.606 8388.048,-4156.652 l 2382.879,1367.702 c -2024.778,3060.036 -6114.495,5152.865 -10830.053,5152.865 -6729.18,0 -12183.251,-4259.285 -12183.251,-9513.668 0,-5253.268 5454.071,-9512.5533 12183.251,-9512.5533 4683.206,0 8749.496,2063.8234 10797.702,5090.3926 z"
+   id="path11"
+   style="stroke-width:1.11558" />
+  <path
+   class="fil1"
+   d="m 14936.504,2605.8992 c 2745.443,1598.6264 3707.073,2954.0564 3944.692,3348.9718 -746.324,333.5585 -1443.561,728.4739 -2079.442,1174.706 C 16595.372,6770.3602 15854.626,5760.7601 13527.526,4504.6167 9882.9253,2536.7332 7688.579,2685.1054 6740.3358,2685.1054 l -4402.0796,-1.1156 V 25891.406 h 6178.0833 v -7291.433 c 2553.5635,5489.771 8332.2685,9764.674 16328.7475,9790.332 -5650.413,721.781 -10442.946,-713.971 -13991.607,-3572.087 v 3411.444 H 0 V 344.61806 H 7685.2322 C 8917.9484,449.4826 11094.445,368.04525 14936.504,2605.8992 Z"
+   id="path13"
+   style="stroke-width:1.11558" />
+ </g>
+</svg>

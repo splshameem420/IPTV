@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Шар_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 606.3 800" style="enable-background:new 0 0 606.3 800;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+</style>
+<radialGradient id="SVGID_1_" cx="535.7794" cy="403.5016" r="333.93" fx="523.6994" fy="530.2416" gradientTransform="matrix(1.0742 3.995200e-02 5.473400e-02 -1.4716 -286.7345 976.6984)" gradientUnits="userSpaceOnUse">
+	<stop  offset="0.336" style="stop-color:#FFA418"/>
+	<stop  offset="0.6077" style="stop-color:#FB741B"/>
+	<stop  offset="0.8661" style="stop-color:#F74C1D"/>
+	<stop  offset="1" style="stop-color:#F63D1E"/>
+</radialGradient>
+<path class="st0" d="M395.2,208l-92,155.8h0.2l-0.2,0.4c72.5,0,131.3,58.9,131.3,131.4c0,72.5-58.8,131.4-131.4,131.4
+	c-72.6,0-131.4-58.8-131.4-131.4c0-24.7,6.8-47.8,18.7-67.6L443.2,0H244.8L43.8,339.8C16,385.6,0,439.4,0,496.9
+	C0,664.3,135.7,800,303.1,800s303.1-135.7,303.1-303.1C606.3,361.5,517.6,247,395.2,208L395.2,208z"/>
+</svg>

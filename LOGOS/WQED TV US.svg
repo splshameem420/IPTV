@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="1000"
+   height="295.73901"
+   viewBox="0 0 1000 295.73901"
+   sodipodi:docname="WQED 2024.svg"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   inkscape:export-filename="WQED 2024.png"
+   inkscape:export-xdpi="192"
+   inkscape:export-ydpi="192"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.73981481"
+     inkscape:cx="448.76095"
+     inkscape:cy="133.14143"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1"
+     showguides="true" />
+  <path
+     style="font-size:292.087px;line-height:0.9;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#002441;fill-opacity:1;fill-rule:evenodd;stroke-width:137.786;paint-order:markers stroke fill"
+     d="m 799.06267,0.19586 h 74.81327 q 45.74913,0 68.17516,12.73799 22.42608,12.55858 40.18748,40.00806 17.7614,27.27006 17.7614,69.0722 0,52.56665 -31.0376,87.91009 -31.03766,35.16403 -85.5778,35.16403 h -84.32191 z m 56.33421,45.03149 v 153.75294 h 23.6819 q 31.39647,0 46.64617,-23.32309 15.24971,-23.50249 15.24971,-55.07835 0,-22.24664 -8.79101,-41.08451 -8.6116,-19.01729 -21.529,-26.55243 -12.9174,-7.71456 -31.03764,-7.71456 z"
+     id="path2" />
+  <path
+     style="font-size:292.087px;line-height:0.9;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#002441;fill-opacity:1;fill-rule:evenodd;stroke-width:137.786;paint-order:markers stroke fill"
+     d="M 772.9776,46.84203 H 656.18277 v 50.23433 h 91.85706 v 46.10794 h -91.85706 v 53.46368 H 772.9776 v 48.44025 H 597.87506 V 0.19586 H 772.9776 Z"
+     id="path1" />
+  <path
+     style="font-size:292.087px;line-height:0.9;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#002441;fill-opacity:1;fill-rule:evenodd;stroke-width:137.786;paint-order:markers stroke fill"
+     d="M 315.93809,0.19586 254.22162,245.08823 H 198.06681 L 157.69993,83.08251 118.94773,245.08823 H 62.97233 L 0,0.19586 H 58.487119 L 92.21589,149.64299 q 0.17941,1.07646 1.97349,7.89397 0.71764,2.51172 1.97349,7.53516 L 136.17094,0.19586 h 52.92545 l 41.26392,164.87626 q 1.25585,-4.66462 3.58817,-15.42913 L 268.7537,0.19586 Z"
+     id="text1" />
+  <path
+     id="path3-7"
+     style="fill:#002441;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.22141;paint-order:markers stroke fill"
+     d="M 440.11475,0 C 366.95134,5.1e-4 307.6408,59.31106 307.64028,132.47447 c 0,60.78495 41.20284,113.40433 99.73115,128.36406 l 136.53821,34.90049 -30.4117,-52.97111 c 36.9036,-24.52204 59.09129,-65.96529 59.09129,-110.29344 C 572.58871,59.31106 513.27817,5.1e-4 440.11475,0 Z m 0,53.04276 c 44.48853,-5.7e-4 80.55413,36.19223 80.55492,80.68075 0,27.70391 -13.21375,51.70815 -35.26658,66.66996 l 18.79541,31.95957 -83.19365,-20.32116 c -36.16855,-8.83296 -61.44501,-41.27822 -61.44501,-78.30837 7.9e-4,-44.48852 36.06639,-80.68132 80.55491,-80.68075 z"
+     sodipodi:nodetypes="cccccccccccccc" />
+</svg>

@@ -1,0 +1,67 @@
+<svg
+        xmlns:dc="http://purl.org/dc/elements/1.1/"
+        xmlns:cc="http://creativecommons.org/ns#"
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:svg="http://www.w3.org/2000/svg"
+        xmlns="http://www.w3.org/2000/svg"
+        xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+        xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+        width="60.837154mm"
+        height="52.916672mm"
+        viewBox="0 0 60.837154 52.916672"
+        version="1.1"
+        id="svg1625"
+        inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+        sodipodi:docname="CMMedia.svg">
+    <defs
+            id="defs1619" />
+    <sodipodi:namedview
+            id="base"
+            pagecolor="#ffffff"
+            bordercolor="#666666"
+            borderopacity="1.0"
+            inkscape:pageopacity="0.0"
+            inkscape:pageshadow="2"
+            inkscape:zoom="0.35"
+            inkscape:cx="144.45489"
+            inkscape:cy="-279.84487"
+            inkscape:document-units="mm"
+            inkscape:current-layer="layer1"
+            inkscape:document-rotation="0"
+            showgrid="false"
+            inkscape:window-width="1360"
+            inkscape:window-height="706"
+            inkscape:window-x="-8"
+            inkscape:window-y="-8"
+            inkscape:window-maximized="1" />
+    <metadata
+            id="metadata1622">
+        <rdf:RDF>
+            <cc:Work
+                    rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                        rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <dc:title></dc:title>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <g
+            inkscape:label="Camada 1"
+            inkscape:groupmode="layer"
+            id="layer1"
+            transform="translate(-67.612978,-312.92324)">
+        <path
+                style="fill:#a5225d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.22805"
+                d="m 124.18982,365.83991 v -8.34695 c 0,-1.62619 -0.20149,-3.28598 -2.17787,-3.28598 -1.89485,0 -2.36017,1.39115 -2.36017,3.07492 v 8.55801 h -4.25502 v -8.53402 c 0,-1.52068 -0.33578,-3.09891 -2.12991,-3.09891 -1.9716,0 -2.40813,1.54944 -2.40813,3.28598 v 8.34695 h -4.25502 v -15.29313 h 3.97678 v 1.57826 h 0.048 c 0.82029,-1.52549 2.30739,-2.08674 3.92401,-2.08674 1.84208,0 3.22843,0.96422 4.10151,2.648 1.02658,-1.68378 2.59043,-2.648 4.51405,-2.648 1.40555,0 2.73914,0.43172 3.74174,1.5015 1.61182,1.70775 1.53986,3.47309 1.53986,5.7421 v 8.55801 z m 0,0"
+                id="path1373" />
+        <path
+                style="fill:#a5225d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.22805"
+                d="m 82.589479,360.39042 c 0,0.7963 -0.657194,1.40553 -1.410333,1.40553 h -5.684554 c -2.139504,0 -3.482689,-1.9428 -3.482689,-4.08709 0,-2.05799 1.266431,-3.87126 3.377149,-3.87126 1.314411,0 2.216259,0.59962 3.050954,1.55424 l 2.494485,-3.10371 c -0.796318,-0.94021 -3.055743,-2.71035 -5.598208,-2.71035 -4.350946,0 -7.723305,3.59782 -7.723305,8.10229 0,4.56202 3.449111,8.15984 7.828844,8.15984 H 85.44855 c 0.748339,0 1.405546,-0.59966 1.405546,-1.40557 v -6.97013 c 0,-1.73658 0.436533,-3.28602 2.41293,-3.28602 1.789323,0 2.12511,1.57346 2.12511,3.09891 v 8.56281 h 4.255023 v -8.5916 c 0,-1.68377 0.465308,-3.07012 2.360161,-3.07012 1.971604,0 2.17788,1.65499 2.17788,3.28602 v 8.3757 h 4.25982 v -8.5916 c 0,-2.26901 0.072,-4.03435 -1.53987,-5.74211 -1.00259,-1.06974 -2.33138,-1.49669 -3.74653,-1.49669 -1.918834,0 -3.487476,0.95942 -4.509255,2.64319 -0.873073,-1.68377 -2.259435,-2.64319 -4.101517,-2.64319 -1.616612,0 -3.103709,0.56125 -3.924013,2.08194 h -0.05281 v -1.57342 h -3.981583 z m 0,0"
+                id="path1375" />
+        <path
+                style="fill:#a5225d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.22805"
+                d="M 128.44963,312.92324 H 67.612978 v 33.79548 h 60.836652 z m -8.11666,25.68361 H 75.720049 V 321.0303 h 44.612921 z m 0,0"
+                id="path1377" />
+    </g>
+</svg>

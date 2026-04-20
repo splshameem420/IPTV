@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="svg2"
+   width="512"
+   height="512"
+   viewBox="0 0 511.99998 511.99998"
+   version="1.1"
+   sodipodi:docname="24 logo.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview56"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     width="512px"
+     inkscape:zoom="0.45814895"
+     inkscape:cx="293.57265"
+     inkscape:cy="302.30343"
+     inkscape:window-width="1360"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs37">
+    <style
+       id="style33">
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-4 {
+        fill: #1b1676;
+      }
+    </style>
+    <clipPath
+       id="clip-path"
+       transform="translate(0.01 0.01)">
+      <rect
+         id="SVGID"
+         class="cls-1"
+         x="-1.26"
+         y="-1.26"
+         width="69.959999"
+         height="69.959999" />
+    </clipPath>
+  </defs>
+  <title
+     id="title39">logo-rtvs24</title>
+  <g
+     id="g10"
+     transform="matrix(7.7952231,0,0,7.5516224,1.9238534,-0.06551622)"
+     style="fill:#ffffff;stroke-width:0.130336;fill-opacity:0.99598396">
+    <g
+       id="g12"
+       style="fill:#ffffff;stroke-width:0.130336;fill-opacity:0.99598396">
+      <path
+         id="path46"
+         class="cls-2"
+         d="M 51.79,67.79 H 16 A 16,16 0 0 1 0,51.79 V 16 A 16,16 0 0 1 16,0 h 35.8 a 16,16 0 0 1 16,16 v 35.8 a 16,16 0 0 1 -16,16"
+         transform="translate(0.01,0.01)"
+         style="fill:#ffffff;stroke-width:0.130336;fill-opacity:0.99598396" />
+    </g>
+  </g>
+  <g
+     class="cls-3"
+     clip-path="url(#clip-path)"
+     id="g53"
+     transform="matrix(7.5516224,0,0,7.5516224,-0.06551622,-0.06551622)"
+     style="stroke-width:0.132422">
+    <path
+       class="cls-4"
+       d="m 32.17,37.47 c 1.42,-0.82 7,-3.38 7,-9.27 0,-5.46 -5.11,-9.61 -10.95,-9.61 -5.5,0 -10.28,4 -10.28,4 0,0 0.05,0.17 1.39,3.54 a 2.16,2.16 0 0 0 3.11,1.23 c 1.79,-0.88 4,-2.07 5.79,-2.07 2.38,0 4,1.59 4,3.3 0,2.27 -2.38,3.24 -6.37,5.46 -3.99,2.22 -8.36,5.51 -8.36,11.36 v 1.37 a 2.13,2.13 0 0 0 2.13,2.13 H 38.9 V 44.19 A 1.73,1.73 0 0 0 37.17,42.46 H 25 c 0,-1.34 3.88,-3.08 7.17,-5"
+       transform="translate(0.01,0.01)"
+       id="path44"
+       style="stroke-width:0.132422" />
+    <path
+       class="cls-4"
+       d="m 9.78,24.46 a 4.08,4.08 0 1 0 4,4.08 4.06,4.06 0 0 0 -4,-4.08"
+       transform="translate(0.01,0.01)"
+       id="path47"
+       style="stroke-width:0.132422" />
+    <path
+       class="cls-4"
+       d="m 9.78,36.81 a 4.08,4.08 0 1 0 4,4.08 4.06,4.06 0 0 0 -4,-4.08"
+       transform="translate(0.01,0.01)"
+       id="path49"
+       style="stroke-width:0.132422" />
+    <path
+       class="cls-4"
+       d="m 60,36.15 h -1.12 v -5 h -4.66 a 1.73,1.73 0 0 0 -1.73,1.73 c 0,0 0,0.43 0,1.17 v 2.11 H 47.32 L 53.11,23 a 1.73,1.73 0 0 0 -0.89,-2.28 l -4.28,-1.87 -7.61,17.27 v 0 2.58 c 0,0.11 0,0.23 0,0.34 v 1.37 c 0,0 0,0.08 0,0.12 v 0 0 a 2.13,2.13 0 0 0 2.12,2 h 10 v 6.31 h 4.67 a 1.73,1.73 0 0 0 1.73,-1.73 c 0,0 0,-2.11 0,-4.58 h 2.82 V 37.88 A 1.73,1.73 0 0 0 60,36.15"
+       transform="translate(0.01,0.01)"
+       id="path51"
+       style="stroke-width:0.132422" />
+  </g>
+  <metadata
+     id="metadata192">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>logo-rtvs24</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <rect
+     style="fill:#ffffff;fill-opacity:1;stroke-width:1"
+     id="rect13258"
+     width="211.8938"
+     height="160.51353"
+     x="-44.210922"
+     y="-35.498184" />
+  <rect
+     style="fill:#ffffff;fill-opacity:1;stroke-width:1"
+     id="rect13258-4"
+     width="211.8938"
+     height="433.69522"
+     x="-183.11687"
+     y="49.388779" />
+  <rect
+     style="fill:#ffffff;fill-opacity:1;stroke-width:1"
+     id="rect13260"
+     width="226.23248"
+     height="185.20792"
+     x="403.47446"
+     y="-58.018978" />
+  <rect
+     style="fill:#ffffff;fill-opacity:1;stroke-width:1"
+     id="rect13260-6"
+     width="226.23248"
+     height="562.81439"
+     x="487.12521"
+     y="7.8000698" />
+  <rect
+     style="fill:#ffffff;fill-opacity:1;stroke-width:1"
+     id="rect13262"
+     width="313.31866"
+     height="193.98091"
+     x="313.49405"
+     y="377.35986" />
+  <rect
+     style="fill:#ffffff;fill-opacity:1;stroke-width:1"
+     id="rect13264"
+     width="420.60123"
+     height="194.46832"
+     x="-61.735977"
+     y="385.84982" />
+</svg>

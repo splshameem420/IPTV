@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="766"
+   height="172"
+   viewBox="0 0 202.67083 45.508335"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="l24.svg"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient899">
+      <stop
+         style="stop-color:#0033b0;stop-opacity:1;"
+         offset="0"
+         id="stop895" />
+      <stop
+         style="stop-color:#0033b0;stop-opacity:0;"
+         offset="1"
+         id="stop897" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient899"
+       id="linearGradient942"
+       gradientUnits="userSpaceOnUse"
+       x1="74.475311"
+       y1="34.052856"
+       x2="73.005402"
+       y2="-56.591434" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.08"
+     inkscape:cx="219.6908"
+     inkscape:cy="110.58855"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="px"
+     inkscape:snap-midpoints="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Слой 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g858">
+      <rect
+         style="opacity:0.83758701;fill:#0044aa;fill-opacity:1;stroke-width:0"
+         id="rect833"
+         width="152.3804"
+         height="45.322144"
+         x="0.24498473"
+         y="0.24498408" />
+      <rect
+         style="fill:#c60001;fill-opacity:1;stroke-width:0"
+         id="rect865"
+         width="47.771992"
+         height="45.322144"
+         x="154.83025"
+         y="0.24498408" />
+      <rect
+         style="opacity:0.87703;fill:#ffffff;fill-opacity:1;stroke-width:0"
+         id="rect867"
+         width="2.2048609"
+         height="45.322144"
+         x="152.62538"
+         y="0.24498408" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.4px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="165.60957"
+         y="30.868055"
+         id="text1558"><tspan
+           sodipodi:role="line"
+           id="tspan1556"
+           x="165.60957"
+           y="30.868055"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.4px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.264583">24</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.2936px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.273891"
+         x="7.5902863"
+         y="33.122662"
+         id="text1562"
+         transform="scale(1.035181,0.96601463)"><tspan
+           sodipodi:role="line"
+           id="tspan1560"
+           x="7.5902863"
+           y="33.122662"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.2936px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.273891">ЛУГАНСК</tspan></text>
+      <path
+         style="opacity:0.14385151;fill:#d5e5ff;stroke:#0000bf;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 0.24498789,45.567125 202.60223,0.24498408 H 0.24498789 Z"
+         id="path1591" />
+    </g>
+  </g>
+</svg>
