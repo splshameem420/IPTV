@@ -1,0 +1,32 @@
+name: Generate Database
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'DETAILS/**'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Run Database Generator
+        run: python generate_json.py
+
+      - name: Commit and Push Database
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add database.json
+          git commit -m "New channel added: database updated" || exit 0
+          git push
