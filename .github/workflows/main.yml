@@ -6,6 +6,7 @@ on:
       - main
     paths:
       - 'DETAILS/**'
+      - 'LOGOS/**'
 
 jobs:
   build:
@@ -14,11 +15,16 @@ jobs:
     steps:
       - name: Checkout Code
         uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.x'
+
+      - name: Install Dependencies
+        run: pip install pytz 
 
       - name: Run Database Generator
         run: python generate_json.py
@@ -28,5 +34,5 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add database.json
-          git commit -m "New channel added: database updated" || exit 0
+          git commit -m "Automated update: Database and Channel Timestamps" || exit 0
           git push
